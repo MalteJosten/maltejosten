@@ -1,16 +1,20 @@
-### Hi there 👋
+<h3 align="center">Hi, I'm Malte.</h3>
 
-<!--
-**MalteJosten/maltejosten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+🎓 M.Sc. Computer Science<br>
+🖥️ Research Associate @ University of Duisburg-Essen<br>
+💬 :de: :gb: :fr:
+</div>
+&nbsp;
+<div align="center">
+⌨️ Clean code<br>
+⌛ Longevity and Sustainability of Software</br>
+:brain: Knowledge Management<br>
+:zap: Productivity
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h6 align="center">Typing fast is fun.</h6>

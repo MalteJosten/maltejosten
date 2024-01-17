@@ -4,7 +4,7 @@
 
 <div align="center">
 🎓 M.Sc. Computer Science<br>
-🖥️ Research Associate and PhD Student @ University of Duisburg-Essen<br>
+🖥️ Research Associate @ University of Duisburg-Essen<br>
 💬 :de: :gb: :fr:
 </div>
 &nbsp;

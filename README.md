@@ -13,7 +13,6 @@
 🔒 Cyber Security<br>
 ⌛ Longevity and Sustainability of Software<br>
 :brain: Knowledge Management<br>
-:zap: Productivity
 </div>
 
 ---

@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-🎓 Computer Science PhD Student<br>
+🎓 PhD Student, Computer Science<br>
 🖥️ Research Associate @ University of Duisburg-Essen<br>
 💬 :de: :gb: :fr:
 </div>

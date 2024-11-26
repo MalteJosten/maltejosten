@@ -5,7 +5,7 @@
 <div align="center">
 🎓 PhD Student, Computer Science<br>
 🖥️ Research Associate @ University of Duisburg-Essen<br>
-💬 :de: :gb: :fr:
+💬 :de: :gb: :fr: 🇹🇼
 </div>
 &nbsp;
 <div align="center">

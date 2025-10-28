@@ -9,7 +9,6 @@
 </div>
 &nbsp;
 <div align="center">
-⌨️ Clean code<br>
 🔒 Cyber Security<br>
 ⌛ Longevity and Sustainability of Software<br>
 :brain: Knowledge Management<br>
